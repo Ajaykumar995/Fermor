@@ -4,6 +4,10 @@
 > *Built with React.js, Vite, Tailwind CSS, Lucide Icons, & Framer Motion.*
 
 ---
+##  Live
+      https://fermor.netlify.app
+
+
 
 ## 📌 Executive Summary & Product Vision
 
